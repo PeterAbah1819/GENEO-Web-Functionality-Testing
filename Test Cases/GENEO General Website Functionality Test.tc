@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Lets test the functionality of the website to make sure that all the features work as required.</description>
+   <name>GENEO General Website Functionality Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e0fc5f9-e4e3-4995-ae73-447c08544f10</testCaseGuid>
+</TestCaseEntity>
